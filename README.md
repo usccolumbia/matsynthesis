@@ -1,13 +1,12 @@
 # matsynthesis
 Materials Synthesizability Prediction
 
-## Papers on machine learning for proteins
+## Papers on machine learning for materials and molecule synthesis
 
 ### Background
 
-We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. This format also allows us to broaden the scope beyond engineering-specific applications. We hope that this will be a useful resource for people interested in the field.
 
-To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
+To the best of our knowledge, this is the first public, collaborative list of machine learning papers on materials synthesis. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
 
 ### Format
 
@@ -22,10 +21,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 [Unsupervised variant prediction](#unsupervised-variant-prediction)  
 [Generative models](#generative-models)  
 [Predicting stability](#predicting-stability)  
-[Predicting structure from sequence](#predicting-structure-from-sequence)  
-[Predicting sequence from structure](#predicting-sequence-from-structure)  
 [Classification and annotation](#classification-and-annotation)  
-[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
 [Other supervised learning](#other-supervised-learning)
 
 ### Reviews
