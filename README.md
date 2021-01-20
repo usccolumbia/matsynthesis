@@ -51,7 +51,7 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 ### Machine-learning synthesizability prediction of materials
 
 **Structure-Based Synthesizability Prediction of Crystals Using Partially Supervised Learning.**
-Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843.
+Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843. 
 *Jang, Jidon, Geun Ho Gu, Juhwan Noh, Juhwan Kim, and Yousung Jung.*
 [[JACS 2020](https://pubs.acs.org/doi/abs/10.1021/jacs.0c07384)]
 
@@ -81,7 +81,7 @@ Peishan Huang, Simon K. S. Chu, Henrique N. Frizzo, Morgan P. Connolly, Ryan W. 
 
 
 
-### Predicting structure from sequence
+### Synthesis Planning by ML and Deep Learning
 
 
 
