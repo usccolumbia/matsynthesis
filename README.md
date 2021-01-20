@@ -33,7 +33,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 
 
-### Tools
+### Tools and source code
 **Population-Based Black-Box Optimization for Biological Sequence Design.**  
 Christof Angermueller, David Belanger, Andreea Gane, Zelda Mariet, David Dohan, Kevin Murphy, Lucy Colwell, D Sculley.  
 ICML, July 2020.  
@@ -44,7 +44,7 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 *Nature Methods, March 2019.*  
 [[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
-### Machine-learning synthesizability prediction of materials
+### Machine-learning based synthesizability prediction of materials
 
 **Structure-Based Synthesizability Prediction of Crystals Using Partially Supervised Learning.**
 Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843. 
@@ -55,6 +55,18 @@ Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843.
 Brian Hie, Bryan Bryson, Bonnie Berger.  
 *Preprint, August 2020.*  
 [[10.1101/2020.08.11.247072](https://doi.org/10.1101/2020.08.11.247072)]
+
+
+### Synthesizability prediction of molecules using Machine-learning
+
+
+
+### Synthesis Planning of materials by ML
+
+
+### Synthesis Planning of Molecules by ML
+
+
 
 
 ### Unsupervised variant prediction
@@ -77,7 +89,6 @@ Peishan Huang, Simon K. S. Chu, Henrique N. Frizzo, Morgan P. Connolly, Ryan W. 
 
 
 
-### Synthesis Planning by ML and Deep Learning
 
 
 
