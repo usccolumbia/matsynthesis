@@ -67,11 +67,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 *Nature Methods, March 2019.*  
 [[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
-### Machine-learning guided directed evolution
+### Machine-learning synthesizability prediction of materials
 
 **Structure-Based Synthesizability Prediction of Crystals Using Partially Supervised Learning.**
 Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843.
-Jang, Jidon, Geun Ho Gu, Juhwan Noh, Juhwan Kim, and Yousung Jung.
+*Jang, Jidon, Geun Ho Gu, Juhwan Noh, Juhwan Kim, and Yousung Jung.*
 [[JACS 2020](https://pubs.acs.org/doi/abs/10.1021/jacs.0c07384)]
 
 **Learning with uncertainty for biological discovery and design.**  
