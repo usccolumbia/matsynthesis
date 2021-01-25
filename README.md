@@ -79,12 +79,12 @@ Scientific Data 7, Article number: 384 (2020).
 
 ### Synthesis Planning of Materials by ML
 
-**Inorganic Materials Synthesis Planning with Literature-Trained Neural Networks.**
 **The Synthesizability of Molecules Proposed by Generative Models.**
 Journal of Chemical Information and Modeling 2020 60 (12), 5714-5723, 2020.
 *Wenhao Gao and Connor W. Coley.*
 [[10.1021/acs.jcim.0c00174](https://arxiv.org/pdf/2002.07007.pdf)]
 
+**Inorganic Materials Synthesis Planning with Literature-Trained Neural Networks.**
 Dept. of Materials Science and Engineering, Massachusetts Institute of Technology, 2019
 *Edward Kim, Zach Jensen, Alexander van Grootel, Kevin Huang, Matthew Staib, Sheshera Mysore, Haw-Shiuan Chang, Emma Strubell, Andrew McCallum, Stefanie Jegelka, and Elsa Olivetti.*
 [[1901.00032](https://arxiv.org/pdf/1901.00032.pdf)]
