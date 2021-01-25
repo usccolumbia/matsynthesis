@@ -62,7 +62,6 @@ Nature Communications 10, no. 2018 (2019).
 [[s41467-019-10030-5](https://www.nature.com/articles/s41467-019-10030-5.pdf)]
 
 **Predicting Synthesizability.**
-
 UC Berkeley, Journal of physics D: Applied physics, 52(1), 2019.
 *Albert Davydov and Ursula Kattner.*
 [[10.1088/1361-6463/aad926](https://escholarship.org/content/qt29n7w5bm/qt29n7w5bm.pdf?t=pjkg5u)]
