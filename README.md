@@ -62,27 +62,30 @@ Nature Communications 10, no. 2018 (2019).
 [[s41467-019-10030-5](https://www.nature.com/articles/s41467-019-10030-5.pdf)]
 
 **Predicting Synthesizability.**
+
 UC Berkeley, Journal of physics D: Applied physics, 52(1), 2019.
 *Albert Davydov and Ursula Kattner.*
 [[10.1088/1361-6463/aad926](https://escholarship.org/content/qt29n7w5bm/qt29n7w5bm.pdf?t=pjkg5u)]
 
 ### Synthesizability prediction of molecules using Machine-learning
+
 **SAVI, in silico generation of billions of easily synthesizable compounds through expert-system type rules.**
 Scientific Data 7, Article number: 384 (2020).
 *Hitesh Patel, Wolf-Dietrich Ihlenfeldt, Philip N. Judson, Yurii S. Moroz, Yuri Pevzner, Megan L. Peach, Victorien Delannée, Nadya Tarasova, and Marc C. Nicklaus.*
 [[doi.org/10.1038/s41597-020-00727-4](https://www.nature.com/articles/s41597-020-00727-4.pdf)]
 
-### Synthesis Planning of materials by ML
-**The Synthesizability of Molecules Proposed by Generative Models.**
-Journal of Chemical Information and Modeling 2020 60 (12), 5714-5723, 2020.
-*Wenhao Gao and Connor W. Coley.*
-[[10.1021/acs.jcim.0c00174](https://arxiv.org/pdf/2002.07007.pdf)]
 
 ### Synthesis Planning of Molecules by ML
 
 
 ### Synthesis Planning of Materials by ML
+
 **Inorganic Materials Synthesis Planning with Literature-Trained Neural Networks.**
+**The Synthesizability of Molecules Proposed by Generative Models.**
+Journal of Chemical Information and Modeling 2020 60 (12), 5714-5723, 2020.
+*Wenhao Gao and Connor W. Coley.*
+[[10.1021/acs.jcim.0c00174](https://arxiv.org/pdf/2002.07007.pdf)]
+
 Dept. of Materials Science and Engineering, Massachusetts Institute of Technology, 2019
 *Edward Kim, Zach Jensen, Alexander van Grootel, Kevin Huang, Matthew Staib, Sheshera Mysore, Haw-Shiuan Chang, Emma Strubell, Andrew McCallum, Stefanie Jegelka, and Elsa Olivetti.*
 [[1901.00032](https://arxiv.org/pdf/1901.00032.pdf)]
