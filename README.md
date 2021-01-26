@@ -51,20 +51,60 @@ Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843.
 *Jang, Jidon, Geun Ho Gu, Juhwan Noh, Juhwan Kim, and Yousung Jung.*
 [[JACS 2020](https://pubs.acs.org/doi/abs/10.1021/jacs.0c07384)]
 
+**Can we predict materials that can be synthesised?.**
+Chemical Science, Advanced Article, November 2020.
+*Filip T. Szczypinski, Steven Bennett, and Kim E. Jelfs.*
+[[10.1039/D0SC04321D](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d0sc04321d)]
+
 **Learning with uncertainty for biological discovery and design.**  
-Brian Hie, Bryan Bryson, Bonnie Berger.  
-*Preprint, August 2020.*  
+Preprint, August 2020
+*Brian Hie, Bryan Bryson, Bonnie Berger.* 
 [[10.1101/2020.08.11.247072](https://doi.org/10.1101/2020.08.11.247072)]
+
+**Predicting synthesizable multi-functional edge reconstructions in two-dimensional transition metal dichalcogenides.**
+Computational Materials 6, Article no. 44 (2020), May 2020.
+*Guoxiang Hu, Victor Fung, Xiahan Sang, Raymond Unocic, and P. Ganesh.*
+[[npj 2020](https://www.nature.com/articles/s41524-020-0327-4.pdf)]
+
+**Machine-enabled inverse design of inorganic solid materials: promises and challenges.**
+Chemical Science, no. 11, 2020.
+*Juhwan Noh, Geun Ho Gu, Sungwon Kim, and Yousung Jung.*
+[[10.1039/d0sc00594k](https://pubs.rsc.org/en/content/articlepdf/2020/sc/d0sc00594k)]
+
+**Prediction of Synthesis of 2D Metal Carbides and Nitrides (MXenes) and Their Precursors with Positive and Unlabeled Machine Learning.**
+ACS Nano 13 (3), 3031-3041, March 2019.
+*Nathan C. Frey, Jin Wang, Gabriel Iván Vega Bellido, Babak Anasori, Yury Gogotsi, and Vivek B. Shenoy.*
+[[10.1021/acsnano.8b08014](https://pubs.acs.org/doi/full/10.1021/acsnano.8b08014)]
+
+**Predicting Synthesizability.**
+UC Berkeley, Journal of physics D: Applied physics, 52(1), 2019.
+*Albert Davydov and Ursula Kattner.*
+[[10.1088/1361-6463/aad926](https://escholarship.org/content/qt29n7w5bm/qt29n7w5bm.pdf?t=pjkg5u)]
 
 **Network analysis of synthesizable materials discovery.**
 Nature Communications 10, no. 2018 (2019).
 *Muratahan Ayko, Vinay I. Hegde, Linda Hung, Santosh Suram, Patrick Herring, Chris Wolverton2, and Jens S. Hummelshøj.*
 [[s41467-019-10030-5](https://www.nature.com/articles/s41467-019-10030-5.pdf)]
 
-**Predicting Synthesizability.**
-UC Berkeley, Journal of physics D: Applied physics, 52(1), 2019.
-*Albert Davydov and Ursula Kattner.*
-[[10.1088/1361-6463/aad926](https://escholarship.org/content/qt29n7w5bm/qt29n7w5bm.pdf?t=pjkg5u)]
+**Robust and synthesizable photocatalysts for CO2 reduction: a data-driven materials discovery**
+Nature Communications 10, no.443, 2019.
+*Arunima Singh, Joseph Montoya, John Gregoire, and Kristin A. Persson.*
+[[10.1038/s41467-019-08356-1](https://www.nature.com/articles/s41467-019-08356-1.pdf)]
+
+**Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.**
+Phys. Rev. Lett. 120, 145301, April 2018.
+*Tian Xie and Jeffrey C. Grossman.*
+[[10.1103/PhysRevLett.120](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)]
+
+**The Synthesizability of Texture Examples.**
+Computer Vision Lab,  ETH Zurich, 2014.
+*Dengxin Dai, Hayko Riemenschneider, and Luc Van Gool.*
+[[0.13140/2.1.2685.6325](https://openaccess.thecvf.com/content_cvpr_2014/papers/Dai_The_Synthesizability_of_2014_CVPR_paper.pdf)]
+
+**Computational prediction of chemically synthesizable organic structure directing agents for zeolites.**
+Journals of Materials Chemistry A, Issue 23, 2013.
+*Ramdas Pophale, Frits Daeyaertb, and Michael W. Deem.*
+[[10.1039/C3TA10626H](https://pubs.rsc.org/am/content/articlelanding/2013/ta/c3ta10626h/unauth#!divAbstract)]
 
 ### Synthesizability prediction of molecules using Machine-learning
 
