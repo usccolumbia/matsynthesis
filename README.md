@@ -113,6 +113,16 @@ Scientific Data 7, Article number: 384 (2020).
 *Hitesh Patel, Wolf-Dietrich Ihlenfeldt, Philip N. Judson, Yurii S. Moroz, Yuri Pevzner, Megan L. Peach, Victorien Delannée, Nadya Tarasova, and Marc C. Nicklaus.*
 [[doi.org/10.1038/s41597-020-00727-4](https://www.nature.com/articles/s41597-020-00727-4.pdf)]
 
+**Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning.**
+Chemical Science, Advanced Article, 2020.
+*Amol Thakkar, Veronika Chadimova, Esben Jannik Bjerrum, Ola Engkvist, and Jean-Louis Reymond.*
+[[10.1039/d0sc05401a](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d0sc05401a)]
+
+**A Model to Search for Synthesizable Molecules.**
+arXivLabs, 1906.05221, Dec 2019.
+*John Bradshaw, Brooks Paige, Matt J. Kusner, Marwin H. S. Segler, José Miguel, and Hernández-Lobato.*
+[[1906.05221.pdf](https://arxiv.org/pdf/1906.05221.pdf)]
+
 
 ### Synthesis Planning of Molecules by ML
 
