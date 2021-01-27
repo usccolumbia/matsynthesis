@@ -46,6 +46,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning based synthesizability prediction of materials
 
+**Predicting the Outcomes of Material Syntheses with Deep Learning.**
+Chem Mater, 33, 2, 616–624, Jan 2021.
+*Shreshth A. Malik, Rhys E. A. Goodall, and Alpha A. Lee.*
+[[10.1021/acs.chemmater.0c03885](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c03885)]
+
 **Structure-Based Synthesizability Prediction of Crystals Using Partially Supervised Learning.**
 Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843. 
 *Jang, Jidon, Geun Ho Gu, Juhwan Noh, Juhwan Kim, and Yousung Jung.*
@@ -118,21 +123,110 @@ Chemical Science, Advanced Article, 2020.
 *Amol Thakkar, Veronika Chadimova, Esben Jannik Bjerrum, Ola Engkvist, and Jean-Louis Reymond.*
 [[10.1039/d0sc05401a](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d0sc05401a)]
 
+**Artificial applicability labels for improving policies in retrosynthesis prediction.**
+Machine Learning: Science Technology 2 017001, Dec 2020.
+*Esben Jannik Bjerrum, Amol Thakkar1, and Ola Engkvist.*
+[[10.1088/2632-2153/abcf90](https://iopscience.iop.org/article/10.1088/2632-2153/abcf90/pdf)]
+
+**RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist.**
+arXiv:2011.02893, Nov 2020.
+*Chaochao Yan, Qianggang Ding, Peilin Zhao, Shuangjia Zheng, Jinyu Yang, Yang Yu, and Junzhou Huang.*
+[[2011.02893.pdf](https://arxiv.org/pdf/2011.02893.pdf)] 
+
+**Transfer Learning: Making Retrosynthetic Predictions Based on a Small Chemical Reaction Dataset Scale to a New Level.**
+Molecules. 25(10):2357, May 2020.
+*Renren Bai, Chengyun Zhang, Ling Wang, Chuansheng Yao, Jiamin Ge, and Hongliang Duan.*
+[[10.3390/molecules25102357](https://www.mdpi.com/1420-3049/25/10/2357/htm)]
+
+**A Graph to Graphs Framework for Retrosynthesis Prediction.**
+37th ICML, Online, PMLR 119, March 2020.
+*Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang.*
+[[](http://proceedings.mlr.press/v119/shi20d/shi20d.pdf)]
+
+**Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration strategy.**
+Chemical Science 11, 3316, March 2020.
+*Philippe Schwaller, Riccardo Petraglia, Valerio Zullo, Vishnu Nair, Rico Haeuselmann, Riccardo Pisoni, Costas Bekas, Anna Iuliano, and Teodoro Laino.*
+[[10.1039/c9sc05704h](https://pubs.rsc.org/en/content/articlepdf/2020/sc/c9sc05704h)]
+
+**Retrosynthesis Prediction with Conditional Graph Logic Network.**
+arXiv:2001.01408 [cs.LG], Jan 2020.
+*Hanjun Dai, Chengtao Li, Connor W. Coley, Bo Dai, and Le Song.*
+[[2001.01408.pdf](https://arxiv.org/pdf/2001.01408.pdf)]
+
 **A Model to Search for Synthesizable Molecules.**
 arXivLabs, 1906.05221, Dec 2019.
 *John Bradshaw, Brooks Paige, Matt J. Kusner, Marwin H. S. Segler, José Miguel, and Hernández-Lobato.*
 [[1906.05221.pdf](https://arxiv.org/pdf/1906.05221.pdf)]
 
+**Prediction and Interpretable Visualization of Retrosynthetic Reactions Using Graph Convolutional Networks.**
+J Chem Inf Model, 59, 12, 5026–5033, 2019.
+*Shoichi Ishida, Kei Terayama, Ryosuke Kojima, Kiyosei Takasu, and Yasushi Okuno.*
+[[10.1021/acs.jcim.9b00538](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00538)]
+
+**Retrosynthetic Reaction Prediction Using Neural Sequence-toSequence Models.**
+ACS Cent. Sci. 2017, 3, 10, 1103–1113, September 2017.
+*Bowen Liu, Bharath Ramsundar, Prasad Kawthekar, Jade Shi, Joseph Gomes, Quang Luu Nguyen, Stephen Ho, Jack Sloane, Paul Wender,and Vijay Pande.*
+[[10.1021/acscentsci.7b00303](hhttps://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00303)]
+
+**Neural‐Symbolic Machine Learning for Retrosynthesis and Reaction Prediction.**
+Chemistry A European Journal, January 2017.
+*Marwin Segler and Prof. Mark P. Waller.*
+[[10.1002/chem.201605499](https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/chem.201605499)]
+
+**A Short Review of Chemical Reaction Database Systems, Computer‐Aided Synthesis Design, Reaction Prediction and Synthetic Feasibility.**
+Molecular Informatics, 2014.
+*Wendy A. Warr.*
+[[10.1002/minf.201400052](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201400052)]
+
 
 ### Synthesis Planning of Molecules by ML
 
+**Substructure-based neural machine translation for retrosynthetic prediction.**
+Journal of Cheminformatics 13, Article no. 4, Jan 2021.
+*Umit V. Ucak1, Taek Kang2, Junsu Ko3, and Juyong Lee.*
+[[10.1186/s13321-020-00482-z](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-020-00482-z.pdf)]
 
-### Synthesis Planning of Materials by ML
+**RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades.**
+Nature Catalysis, Jan 2021.
+*William Finnigan, Lorna J. Hepworth, Sabine L. Flitsch, and Nicholas J. Turner.*
+[[10.1038/s41929-020-00556-z](https://www.nature.com/articles/s41929-020-00556-z)]
+
+**Artificial intelligence and automation in computer aided synthesis planning.**
+React Chem. Eng 6, 27-51, 2021
+*Amol Thakkar, Simon Johansson, Kjell Jorner, David Buttar, Jean-Louis Reymond, and Ola Engkvist.*
+[[10.1039/D0RE00340A](https://pubs.rsc.org/en/content/articlehtml/2021/re/d0re00340a)]
 
 **The Synthesizability of Molecules Proposed by Generative Models.**
-Journal of Chemical Information and Modeling 2020 60 (12), 5714-5723, 2020.
+Journal of Chemical Information and Modeling 60 (12), 5714-5723, 2020.
 *Wenhao Gao and Connor W. Coley.*
 [[10.1021/acs.jcim.0c00174](https://arxiv.org/pdf/2002.07007.pdf)]
+
+**Computational planning of the synthesis of complex natural products.**
+Nature 588, 83–88, Oct 2020.
+*Barbara Mikulak-Klucznik, Patrycja Gołębiowska, Alison Bayly, Oskar Popik, Tomasz Klucznik, Sara Szymkuć, Ewa Gajewska, Piotr Dittwald, Olga Staszewska-Krajewska, Wiktor Beker, Tomasz Badowski, Karl Scheidt, Karol Molga, Jacek Mlynarski, Milan Mrksich, and Bartosz Grzybowski.*
+[[10.1038/s41586-020-2855-y](https://www.nature.com/articles/s41586-020-2855-y)]
+
+**Automatic retrosynthetic route planning using template-free models.**
+Chem. Sci 11, 3355-3364, Mar 2020.
+*Kangjie Lin, Youjun Xu, Jianfeng Pei, and Luhua Lai.*
+[[10.1039/c9sc03666k](https://pubs.rsc.org/en/content/articlepdf/2020/sc/c9sc03666k)]
+
+**Learning Retrosynthetic Planning through Simulated Experience.**
+ACS Cent Sci, 5, 6, 970–981, 2019.
+*John S. Schreck, Connor W. Coley, and Kyle J. M. Bishop.*
+[[10.1021/acscentsci.9b00055](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.9b00055)]
+
+**Machine Learning in Computer-Aided Synthesis Planning.**
+Acc Chem Res, 51, 5, 1281–1289, May 2018.
+*Connor W. Coley, William H. Green, and Klavs F. Jensen.*
+[[10.1021/acs.accounts.8b00087](https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.8b00087)]
+
+**Computer‐Assisted Synthetic Planning: The End of the Beginning.**
+A Journal of the German Chemical Society, 2016.
+*Sara Szymkuć, Ewa P. Gajewska, Tomasz Klucznik, Karol Molga, Dr. Piotr Dittwald, Dr. Michał Startek, Michał Bajczyk, and Prof. Dr. Bartosz A. Grzybowsk.*
+[[10.1002/anie.201506101](https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201506101)]
+
+### Synthesis Planning of Materials by ML
 
 **Inorganic Materials Synthesis Planning with Literature-Trained Neural Networks.**
 Dept. of Materials Science and Engineering, Massachusetts Institute of Technology, 2019
