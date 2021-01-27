@@ -141,7 +141,7 @@ Molecules. 25(10):2357, May 2020.
 **A Graph to Graphs Framework for Retrosynthesis Prediction.**
 37th ICML, Online, PMLR 119, March 2020.
 *Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang.*
-[[](http://proceedings.mlr.press/v119/shi20d/shi20d.pdf)]
+[[2003.12725](http://proceedings.mlr.press/v119/shi20d/shi20d.pdf)]
 
 **Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration strategy.**
 Chemical Science 11, 3316, March 2020.
@@ -166,7 +166,7 @@ J Chem Inf Model, 59, 12, 5026–5033, 2019.
 **Retrosynthetic Reaction Prediction Using Neural Sequence-toSequence Models.**
 ACS Cent. Sci. 2017, 3, 10, 1103–1113, September 2017.
 *Bowen Liu, Bharath Ramsundar, Prasad Kawthekar, Jade Shi, Joseph Gomes, Quang Luu Nguyen, Stephen Ho, Jack Sloane, Paul Wender,and Vijay Pande.*
-[[10.1021/acscentsci.7b00303](hhttps://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00303)]
+[[10.1021/acscentsci.7b00303](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00303)]
 
 **Neural‐Symbolic Machine Learning for Retrosynthesis and Reaction Prediction.**
 Chemistry A European Journal, January 2017.
