@@ -44,6 +44,7 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 *Nature Methods, March 2019.*  
 [[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
+<hr>
 ### Machine-learning based synthesizability prediction of materials
 
 **Predicting the Outcomes of Material Syntheses with Deep Learning.**
@@ -111,6 +112,9 @@ Journals of Materials Chemistry A, Issue 23, 2013.
 *Ramdas Pophale, Frits Daeyaertb, and Michael W. Deem.*
 [[10.1039/C3TA10626H](https://pubs.rsc.org/am/content/articlelanding/2013/ta/c3ta10626h/unauth#!divAbstract)]
 
+
+
+<hr>
 ### Synthesizability prediction of molecules using Machine-learning
 
 **SAVI, in silico generation of billions of easily synthesizable compounds through expert-system type rules.**
