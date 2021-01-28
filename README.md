@@ -45,6 +45,8 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 [[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
 <hr>
+
+
 ### Machine-learning based synthesizability prediction of materials
 
 **Predicting the Outcomes of Material Syntheses with Deep Learning.**
@@ -115,6 +117,7 @@ Journals of Materials Chemistry A, Issue 23, 2013.
 
 
 <hr>
+
 ### Synthesizability prediction of molecules using Machine-learning
 
 **SAVI, in silico generation of billions of easily synthesizable compounds through expert-system type rules.**
