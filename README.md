@@ -117,6 +117,11 @@ ACS Nano 13 (3), 3031-3041, March 2019.
 *Nathan C. Frey, Jin Wang, Gabriel Iván Vega Bellido, Babak Anasori, Yury Gogotsi, and Vivek B. Shenoy.*
 [[10.1021/acsnano.8b08014](https://pubs.acs.org/doi/full/10.1021/acsnano.8b08014)]
 
+**A New Lithium‐Ion Conductor LiTaSiO5: Theoretical Prediction, Materials Synthesis, and Ionic Conductivity.**
+Advanced Functional Materials, 2019.
+*Qi Wang, Jian‐Fang Wu, Ziheng Lu, Francesco Ciucci, Wei Kong Pang, and Xin Guo.*
+[[doi.org/10.1002/adfm.201904232](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adfm.201904232)]
+
 **Predicting Synthesizability.**
 UC Berkeley, Journal of physics D: Applied physics, 52(1), 2019.
 *Albert Davydov and Ursula Kattner.*
