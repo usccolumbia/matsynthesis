@@ -107,6 +107,11 @@ Advanced Theory and Simulations, 3 (7) , 2000084, 2020.
 *Kyohei Noda, Yasuhiko Igarashi, Hiroaki Imai, and Yuya Oaki.*
 [[doi.org/10.1002/adts.202000084](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adts.202000084)]
 
+**Semi-supervised machine-learning classification of materials synthesis procedures.**
+npj Computational Materials volume 5, Article number: 62, July 2019.
+*Haoyan Huo, Ziqin Rong, Olga Kononova, Wenhao Sun, Tiago Botari, Tanjin He, Vahe Tshitoyan, and Gerbrand Ceder.*
+[[s41524-019-0204-1.pdf](https://www.nature.com/articles/s41524-019-0204-1.pdf)]
+
 **Prediction of Synthesis of 2D Metal Carbides and Nitrides (MXenes) and Their Precursors with Positive and Unlabeled Machine Learning.**
 ACS Nano 13 (3), 3031-3041, March 2019.
 *Nathan C. Frey, Jin Wang, Gabriel Iván Vega Bellido, Babak Anasori, Yury Gogotsi, and Vivek B. Shenoy.*
