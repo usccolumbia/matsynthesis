@@ -157,6 +157,11 @@ Chemistry of Materials, 29, 21, 9436–9444, Oct 2017.
 *Edward Kim, Kevin Huang, Adam Saunders, Andrew McCallum, Gerbrand Ceder, and Elsa Olivetti.*
 [[doi.org/10.1021/acs.chemmater.7b03500](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.7b03500)]
 
+**Perspective: Toward “synthesis by design”: Exploring atomic correlations during inorganic materials synthesis.**
+APL Materials 4, 053212, 2016.
+*L. Soderhol and  J. F. Mitchell.
+[[doi.org/10.1063/1.4952712](https://aip.scitation.org/doi/pdf/10.1063/1.4952712)]
+
 **The Synthesizability of Texture Examples.**
 Computer Vision Lab,  ETH Zurich, 2014.
 *Dengxin Dai, Hayko Riemenschneider, and Luc Van Gool.*
