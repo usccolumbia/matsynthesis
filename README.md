@@ -79,6 +79,34 @@ Chemical Science, no. 11, 2020.
 *Juhwan Noh, Geun Ho Gu, Sungwon Kim, and Yousung Jung.*
 [[10.1039/d0sc00594k](https://pubs.rsc.org/en/content/articlepdf/2020/sc/d0sc00594k)]
 
+**Machine-Learning-Driven Synthesis of Carbon Dots with Enhanced Quantum Yields.**
+ACS Nano, 14 (11) , 14761-14768, 2020.
+*Yu Han, Bijun Tang, Liang Wang, Hong Bao, Yuhao Lu, Cuntai Guan, Liang Zhang, Mengying Le, Zheng Liu, and Minghong Wu.*
+[[doi.org/10.1021/acsnano.0c01899](https://pubs.acs.org/doi/pdf/10.1021/acsnano.0c01899)]
+
+**Machine Learning Tools to Predict Hot Injection Syntheses Outcomes for II–VI and IV–VI Quantum Dots.**
+The Journal of Physical Chemistry C, 124 (44) , 24298-24305, 2020.
+*Fábio Baum, Tatiane Pretto, Ariadne Köche, and Marcos José Leite Santos.*
+[[doi.org/10.1021/acs.jpcc.0c05993](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.0c05993)]
+
+**Nanomaterial Synthesis Insights from Machine Learning of Scientific Articles by Extracting, Structuring, and Visualizing Knowledge.**
+Journal of Chemical Information and Modeling, 60 (6) , 2876-2887, 2020.
+*Anna M. Hiszpanski, Brian Gallagher, Karthik Chellappan, Peggy Li, Shusen Liu, Hyojin Kim, Jinkyu Han, Bhavya Kailkhura, David J. Buttler, and Thomas Yong-Jin Han.*   [[doi.org/10.1021/acs.jcim.0c00199](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.0c00199)]
+
+**Machine learning approach for elucidating and predicting the role of synthesis parameters on the shape and size of TiO2 nanoparticles.**
+Scientific Reports, 10 (1), 2020.
+*Francesco Pellegrino, Raluca Isopescu, Letizia Pellutiè, Fabrizio Sordello, Andrea M. Rossi, Erik Ortel, Gianmario Martra, Vasile-Dan Hodoroaba, and Valter Maurino.* [[doi.org/10.1038/s41598-020-75967-w](https://www.nature.com/articles/s41598-020-75967-w.pdf)]
+
+**Navigating the design space of inorganic materials synthesis using statistical methods and machine learning.**
+Dalton Transactions, 49 (33) , 11480-11488, 2020.
+*Erick J. Braham, Rachel D. Davidson, Mohammed Al-Hashimi, Raymundo Arróyave, and Sarbajit Banerjee.*  
+[[doi.org/10.1039/D0DT02028A](https://pubs.rsc.org/en/content/articlelanding/2020/DT/D0DT02028A#!divAbstract)]
+
+**Efficient Syntheses of 2D Materials from Soft Layered Composites Guided by Yield Prediction Model: Potential of Experiment‐Oriented Materials Informatics.**
+Advanced Theory and Simulations, 3 (7) , 2000084, 2020.
+*Kyohei Noda, Yasuhiko Igarashi, Hiroaki Imai, and Yuya Oaki.*
+[[doi.org/10.1002/adts.202000084](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adts.202000084)]
+
 **Prediction of Synthesis of 2D Metal Carbides and Nitrides (MXenes) and Their Precursors with Positive and Unlabeled Machine Learning.**
 ACS Nano 13 (3), 3031-3041, March 2019.
 *Nathan C. Frey, Jin Wang, Gabriel Iván Vega Bellido, Babak Anasori, Yury Gogotsi, and Vivek B. Shenoy.*
@@ -99,10 +127,25 @@ Nature Communications 10, no.443, 2019.
 *Arunima Singh, Joseph Montoya, John Gregoire, and Kristin A. Persson.*
 [[10.1038/s41467-019-08356-1](https://www.nature.com/articles/s41467-019-08356-1.pdf)]
 
+**A Machine Learning Approach to Zeolite Synthesis Enabled by Automatic Literature Data Extraction.**
+ACS Central Science, 5 (5) , 892-899, 2019.
+*Zach Jensen, Edward Kim, Soonhyoung Kwon, Terry Z. H. Gani, Yuriy Román-Leshkov, Manuel Moliner, Avelino Corma, and Elsa Olivetti.*
+[[doi.org/10.1021/acscentsci.9b00193](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.9b00193)]
+
 **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.**
 Phys. Rev. Lett. 120, 145301, April 2018.
 *Tian Xie and Jeffrey C. Grossman.*
 [[10.1103/PhysRevLett.120](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)]
+
+**Data mining for better material synthesis: The case of pulsed laser deposition of complex oxides.**
+Journal of Applied Physics, 123 (11) , 115303, 2018.
+*Steven R. Young, Artem Maksov, Maxim Ziatdinov, Ye Cao, Matthew Burch, Janakiraman Balachandran, Linglong Li, Suhas Somnath, Robert M. Patton, Sergei V. Kalinin, and Rama K. Vasudevan.  
+[[doi.org/10.1063/1.5009942](https://aip.scitation.org/doi/full/10.1063/1.5009942)]
+
+**Materials Synthesis Insights from Scientific Literature via Text Extraction and Machine Learning.**
+Chemistry of Materials, 29, 21, 9436–9444, Oct 2017.
+*Edward Kim, Kevin Huang, Adam Saunders, Andrew McCallum, Gerbrand Ceder, and Elsa Olivetti.*
+[[doi.org/10.1021/acs.chemmater.7b03500](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.7b03500)]
 
 **The Synthesizability of Texture Examples.**
 Computer Vision Lab,  ETH Zurich, 2014.
