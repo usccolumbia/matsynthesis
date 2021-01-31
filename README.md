@@ -59,6 +59,11 @@ Journal of the American Chemical Society 142, no. 44 (2020): 18836-18843.
 *Jang, Jidon, Geun Ho Gu, Juhwan Noh, Juhwan Kim, and Yousung Jung.*
 [[JACS 2020](https://pubs.acs.org/doi/abs/10.1021/jacs.0c07384)]
 
+**Machine learning-guided synthesis of advanced inorganic materials.**
+Materials Today, Volume 41, Pages 72-80, Dec 2020.
+*Bijun Tang, Yuhao Lu, Jiadong Zhou, Tushar Chouhan, Han Wang, Prafful Golani, ManzhangXu, Quan Xu, Cuntai Guan, and Zheng Liu.*
+[[doi.org/10.1016/j.mattod.2020.06.010Get](https://www.sciencedirect.com/science/article/abs/pii/S1369702120302248)]
+
 **Can we predict materials that can be synthesised?.**
 Chemical Science, Advanced Article, November 2020.
 *Filip T. Szczypinski, Steven Bennett, and Kim E. Jelfs.*
