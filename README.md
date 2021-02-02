@@ -197,6 +197,11 @@ Journal of Applied Physics, 123 (11) , 115303, 2018.
 *Steven R. Young, Artem Maksov, Maxim Ziatdinov, Ye Cao, Matthew Burch, Janakiraman Balachandran, Linglong Li, Suhas Somnath, Robert M. Patton, Sergei V. Kalinin, and Rama K. Vasudevan.  
 [[doi.org/10.1063/1.5009942](https://aip.scitation.org/doi/full/10.1063/1.5009942)]
 
+**Inverse Material Design in Colloidal Self-Assembly.**
+Deep Blue, Thesis Article, 2018.
+*Geng, Yina.*
+[[2027.42/149857](https://deepblue.lib.umich.edu/handle/2027.42/149857)]
+
 **Materials Synthesis Insights from Scientific Literature via Text Extraction and Machine Learning.**
 Chemistry of Materials, 29, 21, 9436–9444, Oct 2017.
 *Edward Kim, Kevin Huang, Adam Saunders, Andrew McCallum, Gerbrand Ceder, and Elsa Olivetti.*
