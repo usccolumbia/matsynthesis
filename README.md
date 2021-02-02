@@ -79,6 +79,11 @@ Computational Materials 6, Article no. 44 (2020), May 2020.
 *Guoxiang Hu, Victor Fung, Xiahan Sang, Raymond Unocic, and P. Ganesh.*
 [[npj 2020](https://www.nature.com/articles/s41524-020-0327-4.pdf)]
 
+**Nanoporous materials with predicted zeolite topologies.**
+Royal Society of Chemistry Adv, 10, 17760, May 2020.
+*Vladislav A. Blatov, Olga A. Blatova, Frits Daeyaert, and Michael W. Deem.*
+[[10.1039/d0ra01888k](https://pubs.rsc.org/en/content/articlepdf/2020/ra/d0ra01888k)]
+
 **Machine-enabled inverse design of inorganic solid materials: promises and challenges.**
 Chemical Science, no. 11, 2020.
 *Juhwan Noh, Geun Ho Gu, Sungwon Kim, and Yousung Jung.*
@@ -112,6 +117,21 @@ Advanced Theory and Simulations, 3 (7) , 2000084, 2020.
 *Kyohei Noda, Yasuhiko Igarashi, Hiroaki Imai, and Yuya Oaki.*
 [[doi.org/10.1002/adts.202000084](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adts.202000084)]
 
+**Inverse Design of Solid-State Materials via a Continuous Representation.**
+Matter, Volume 1, Issue 5, Pages 1370-1384, Nov 2019.
+*JuhwanNoh, JaehoonKim, Helge S.Stein, Benjamin Sanchez-Lengeling, John M.Gregoire, Alan Aspuru-Guzik, and Yousung Jung.*
+[[doi.org/10.1016/j.matt.2019.08.017](https://www.sciencedirect.com/science/article/pii/S2590238519301754#!)]
+
+**Vapour-phase-transport rearrangement technique for the synthesis of new zeolites.**
+Nature Communications volume 10, Article number: 5129, Nov 2019.
+*Valeryia Kasneryk, Mariya Shamzhy, Jingtian Zhou, Qiudi Yue, Michal Mazur, Alvaro Mayoral, Zhenlin Luo, Russell E. Morris, Jiří Čejka, and Maksym Opanasenko.*
+[[doi.org/10.1038/s41467-019-12882-3](https://www.nature.com/articles/s41467-019-12882-3.pdf)]
+
+**Machine Learning Applied to Zeolite Synthesis: The Missing Link for Realizing High-Throughput Discovery.**
+Acc. Chem. Res. 2019, 52, 10, 2971–2980, Sep 2019.
+*Manuel Moliner, Yuriy Román-Leshkov, and Avelino Corma.*
+[[doi.org/10.1021/acs.accounts.9b00399](https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.9b00399)]
+
 **Semi-supervised machine-learning classification of materials synthesis procedures.**
 npj Computational Materials volume 5, Article number: 62, July 2019.
 *Haoyan Huo, Ziqin Rong, Olga Kononova, Wenhao Sun, Tiago Botari, Tanjin He, Vahe Tshitoyan, and Gerbrand Ceder.*
@@ -121,6 +141,16 @@ npj Computational Materials volume 5, Article number: 62, July 2019.
 ACS Nano 13 (3), 3031-3041, March 2019.
 *Nathan C. Frey, Jin Wang, Gabriel Iván Vega Bellido, Babak Anasori, Yury Gogotsi, and Vivek B. Shenoy.*
 [[10.1021/acsnano.8b08014](https://pubs.acs.org/doi/full/10.1021/acsnano.8b08014)]
+
+**Discovery of new materials using combinatorial synthesis and high-throughput characterization of thin-film materials libraries combined with computational methods.**
+npj Computational Materials volume 5, Article number: 70, 2019.
+*Alfred Ludwig.*
+[[doi.org/10.1038/s41524-019-0205-0](https://www.nature.com/articles/s41524-019-0205-0.pdf)]
+
+**High-throughput assessment of hypothetical zeolite materials for their synthesizeability and industrial deployability.**
+De Gruyter, 2019
+*Jose Luis Salcedo Perez, Maciej Haranczyk, and Nils Edvin Richard Zimmermann.*
+[[doi.org/10.1515/zkri-2018-2155](https://www.degruyter.com/document/doi/10.1515/zkri-2018-2155/html)]
 
 **A New Lithium‐Ion Conductor LiTaSiO5: Theoretical Prediction, Materials Synthesis, and Ionic Conductivity.**
 Advanced Functional Materials, 2019.
@@ -147,10 +177,20 @@ ACS Central Science, 5 (5) , 892-899, 2019.
 *Zach Jensen, Edward Kim, Soonhyoung Kwon, Terry Z. H. Gani, Yuriy Román-Leshkov, Manuel Moliner, Avelino Corma, and Elsa Olivetti.*
 [[doi.org/10.1021/acscentsci.9b00193](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.9b00193)]
 
+**High-entropy high-hardness metal carbides discovered by entropy descriptors.**
+Nature Communications volume 9, Article number: 4980, Nov 2018.
+*Pranab Sarker, Tyler Harrington, Cormac Toher, Corey Oses, Mojtaba Samiee, Jon-Paul Maria, Donald W. Brenner, Kenneth S. Vecchio, and Stefano Curtarolo.*
+[[10.1038/s41467-018-07160-7](https://www.nature.com/articles/s41467-018-07160-7.pdf)]
+
 **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.**
 Phys. Rev. Lett. 120, 145301, April 2018.
 *Tian Xie and Jeffrey C. Grossman.*
 [[10.1103/PhysRevLett.120](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)]
+
+**Thermodynamic limit for synthesis of metastable inorganic materials.**
+Science Advances, Vol. 4, no. 4, eaaq0148, Apr 2018.
+*Muratahan Aykol, Shyam S. Dwaraknath, Wenhao Sun, and Kristin A. Persson.*
+[[10.1126/sciadv.aaq0148](https://advances.sciencemag.org/content/4/4/eaaq0148/tab-pdf)]
 
 **Data mining for better material synthesis: The case of pulsed laser deposition of complex oxides.**
 Journal of Applied Physics, 123 (11) , 115303, 2018.
@@ -162,10 +202,26 @@ Chemistry of Materials, 29, 21, 9436–9444, Oct 2017.
 *Edward Kim, Kevin Huang, Adam Saunders, Andrew McCallum, Gerbrand Ceder, and Elsa Olivetti.*
 [[doi.org/10.1021/acs.chemmater.7b03500](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.7b03500)]
 
+**Computationally Driven Two-Dimensional Materials Design: What Is Next?.**
+CS Nano, 11, 8, 7560–7564, Jul 2017.
+*Jie Pan, Stephan Lany, and Yue Qi.*
+[[doi.org/10.1021/acsnano.7b04327](https://pubs.acs.org/doi/pdf/10.1021/acsnano.7b04327)]
+
 **Discovery-Synthesis, Design, and Prediction of Chalcogenide Phases.**
 Inorganic Chemistry, 56, 6, 3158–3173, March 2017.
 *Mercouri G. Kanatzidis.*
 [[doi.org/10.1021/acs.inorgchem.7b00188](https://pubs.acs.org/doi/pdf/10.1021/acs.inorgchem.7b00188)]
+
+**Are the inorganic B24N24, Al24N24, B24P24 and Al24P24 nanoclusters synthesizable or not? A DFT study.**
+Inorganica Chimica Acta Volume 456, Pages 18-23, Feb 2017.
+*Ali Akbar Salari.*
+[[doi.org/10.1016/j.ica.2016.11.006](https://www.sciencedirect.com/science/article/abs/pii/S0020169316308660?via%3Dihub)]
+
+
+**Computationally-Guided Synthesis of the 8-Ring Zeolite AEI.**
+Topics in Catalysis volume 58, pages410–415, 2015.
+*Joel E. Schmidt, Michael W. Deem, Christopher Lew, and Tracy M. Davis .*
+[[10.1007/s11244-015-0381-1](https://link.springer.com/article/10.1007/s11244-015-0381-1)]
 
 **Perspective: Toward “synthesis by design”: Exploring atomic correlations during inorganic materials synthesis.**
 APL Materials 4, 053212, 2016.
