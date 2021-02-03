@@ -69,10 +69,20 @@ Chemical Science, Advanced Article, November 2020.
 *Filip T. Szczypinski, Steven Bennett, and Kim E. Jelfs.*
 [[10.1039/D0SC04321D](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d0sc04321d)]
 
+**High Throughput Methods in the Synthesis, Characterization, and Optimization of Porous Materials.**
+Advanced Materials, 32 (44), 2020.
+*Ivan G.Clayson, Daniel Hewitt, Martin Hutereau, Tom Pope, and Ben Slater.*
+[[doi.org/10.1002/adma.202002780](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202002780)]
+
 **Learning with uncertainty for biological discovery and design.**  
 Preprint, August 2020
 *Brian Hie, Bryan Bryson, Bonnie Berger.* 
 [[10.1101/2020.08.11.247072](https://doi.org/10.1101/2020.08.11.247072)]
+
+**Synthesis and Post‐Synthesis Transformation of Germanosilicate Zeolites.**
+Angewandte Chemie International Edition, 59 (44), 2020.
+*Maksym Opanasenko, Mariya Shamzhy, Yunzheng Wang, Wenfu Yan, Petr Nachtigall, and Jiří Čejka.*
+[[doi.org/10.1002/ange.202005776](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ange.202005776)]
 
 **Predicting synthesizable multi-functional edge reconstructions in two-dimensional transition metal dichalcogenides.**
 Computational Materials 6, Article no. 44 (2020), May 2020.
@@ -197,6 +207,11 @@ Journal of Applied Physics, 123 (11) , 115303, 2018.
 *Steven R. Young, Artem Maksov, Maxim Ziatdinov, Ye Cao, Matthew Burch, Janakiraman Balachandran, Linglong Li, Suhas Somnath, Robert M. Patton, Sergei V. Kalinin, and Rama K. Vasudevan.  
 [[doi.org/10.1063/1.5009942](https://aip.scitation.org/doi/full/10.1063/1.5009942)]
 
+**Physical descriptor for the Gibbs energy of inorganic crystalline solids and temperature-dependent materials chemistry.**
+Nature Communications volume 9, Article number: 4168, 2018.
+*Christopher J. Bartel, Samantha L. Millican, Ann M. Deml, John R. Rumptz, William Tumas, Alan W. Weimer, Stephan Lany, Vladan Stevanović, Charles B. Musgrave & Aaron M. Holder.*
+[[doi.org/10.1038/s41467-018-06682-4](https://www.nature.com/articles/s41467-018-06682-4.pdf)]
+
 **Inverse Material Design in Colloidal Self-Assembly.**
 Deep Blue, Thesis Article, 2018.
 *Geng, Yina.*
@@ -222,6 +237,10 @@ Inorganica Chimica Acta Volume 456, Pages 18-23, Feb 2017.
 *Ali Akbar Salari.*
 [[doi.org/10.1016/j.ica.2016.11.006](https://www.sciencedirect.com/science/article/abs/pii/S0020169316308660?via%3Dihub)]
 
+**The thermodynamic scale of inorganic crystalline metastability.**
+Science Advances, Vol. 2, no. 11, e1600225, Nov 2016.
+*Wenhao Sun, Stephen T. Dacek, Shyue Ping Ong, Geoffroy Hautier, Anubhav Jain, William D. Richards, Anthony C. Gamst, Kristin A. Persson, and Gerbrand Ceder.*
+[[10.1126/sciadv.1600225](https://advances.sciencemag.org/lens/advances/2/11/e1600225)]
 
 **Computationally-Guided Synthesis of the 8-Ring Zeolite AEI.**
 Topics in Catalysis volume 58, pages410–415, 2015.
