@@ -333,6 +333,8 @@ Molecular Informatics, 2014.
 *Wendy A. Warr.*
 [[10.1002/minf.201400052](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201400052)]
 
+<hr>
+
 
 ### Synthesis Planning of Molecules by ML
 
@@ -380,6 +382,9 @@ Acc Chem Res, 51, 5, 1281–1289, May 2018.
 A Journal of the German Chemical Society, 2016.
 *Sara Szymkuć, Ewa P. Gajewska, Tomasz Klucznik, Karol Molga, Dr. Piotr Dittwald, Dr. Michał Startek, Michał Bajczyk, and Prof. Dr. Bartosz A. Grzybowsk.*
 [[10.1002/anie.201506101](https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.201506101)]
+
+<hr>
+
 
 ### Synthesis Planning of Materials by ML
 
