@@ -202,6 +202,11 @@ Science Advances, Vol. 4, no. 4, eaaq0148, Apr 2018.
 *Muratahan Aykol, Shyam S. Dwaraknath, Wenhao Sun, and Kristin A. Persson.*
 [[10.1126/sciadv.aaq0148](https://advances.sciencemag.org/content/4/4/eaaq0148/tab-pdf)]
 
+**Colloidal Nanocrystals of Lead-Free Double-Perovskite (Elpasolite) Semiconductors: Synthesis and Anion Exchange To Access New Materials.**
+Nano Letters, 18 (2), 1118-1123, Jan 2018.
+*Sidney E. Creutz, Evan N. Crites, Michael C. De Siena, and Daniel R. Gamelin.*
+[[doi.org/10.1021/acs.nanolett.7b04659](https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.7b04659)]
+
 **Data mining for better material synthesis: The case of pulsed laser deposition of complex oxides.**
 Journal of Applied Physics, 123 (11) , 115303, 2018.
 *Steven R. Young, Artem Maksov, Maxim Ziatdinov, Ye Cao, Matthew Burch, Janakiraman Balachandran, Linglong Li, Suhas Somnath, Robert M. Patton, Sergei V. Kalinin, and Rama K. Vasudevan.  
