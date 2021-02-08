@@ -64,10 +64,20 @@ Materials Today, Volume 41, Pages 72-80, Dec 2020.
 *Bijun Tang, Yuhao Lu, Jiadong Zhou, Tushar Chouhan, Han Wang, Prafful Golani, ManzhangXu, Quan Xu, Cuntai Guan, and Zheng Liu.*
 [[doi.org/10.1016/j.mattod.2020.06.010Get](https://www.sciencedirect.com/science/article/abs/pii/S1369702120302248)]
 
+**Recent advances of lead-free metal halide perovskite single crystals and nanocrystals: synthesis, crystal structure, optical properties, and their diverse applications.**
+Materials Today Chemistr, Volume 18, 100363, December 2020.
+*Saikat Bhaumika, Smaranika, and RayaSudip K.Batabyal.*
+[[10.1016/j.mtchem.2020.100363](https://www.sciencedirect.com/science/article/abs/pii/S2468519420301233?via%3Dihub)]
+
 **Can we predict materials that can be synthesised?.**
 Chemical Science, Advanced Article, November 2020.
 *Filip T. Szczypinski, Steven Bennett, and Kim E. Jelfs.*
 [[10.1039/D0SC04321D](https://pubs.rsc.org/en/content/articlepdf/2021/sc/d0sc04321d)]
+
+**Synthesis of Perovskite Nanocrystals.**
+Perovskite Quantum Dots, pp 1-18, Aug 2020.
+*He Huang.*
+[[10.1007%2F978-981-15-6637-0_1](https://link.springer.com/chapter/10.1007%2F978-981-15-6637-0_1)]
 
 **High Throughput Methods in the Synthesis, Characterization, and Optimization of Porous Materials.**
 Advanced Materials, 32 (44), 2020.
@@ -78,6 +88,16 @@ Advanced Materials, 32 (44), 2020.
 Preprint, August 2020
 *Brian Hie, Bryan Bryson, Bonnie Berger.* 
 [[10.1101/2020.08.11.247072](https://doi.org/10.1101/2020.08.11.247072)]
+
+**Colloidal Synthesis of Shape-Controlled Cs2NaBiX6 (X = Cl, Br) Double Perovskite Nanocrystals: Discrete Optical Transition by Non-Bonding Characters and Energy Transfer to Mn Dopants.**
+Chemistry of Materials, 32 (16), 6864-6874, Jun 2020.
+*Wonseok Lee, Doowon Choi, and Sungjee Kim.*
+[[10.1021/acs.chemmater.0c01315](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.0c01315)]
+
+**A “Tips and Tricks” Practical Guide to the Synthesis of Metal Halide Perovskite Nanocrystals.**
+Chemistry of Materials, 32 (13), 5410-5423, Jun 2020.
+*Yangning Zhang, Timothy D. Siegler, Cherrelle J. Thomas, Michael K. Abney, Tushti Shah, Anastacia De Gorostiza, Randalynn M. Greene, and Brian A. Korgel.*
+[[10.1021/acs.chemmater.0c01735](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.0c01735)]
 
 **Synthesis and Post‐Synthesis Transformation of Germanosilicate Zeolites.**
 Angewandte Chemie International Edition, 59 (44), 2020.
@@ -147,15 +167,30 @@ npj Computational Materials volume 5, Article number: 62, July 2019.
 *Haoyan Huo, Ziqin Rong, Olga Kononova, Wenhao Sun, Tiago Botari, Tanjin He, Vahe Tshitoyan, and Gerbrand Ceder.*
 [[s41524-019-0204-1.pdf](https://www.nature.com/articles/s41524-019-0204-1.pdf)]
 
+**Synthetic Evolution of Colloidal Metal Halide Perovskite Nanocrystals.**
+ACS Langmuir, 35 (36), 11609-11628, June 2019.
+*Chun Kiu Ng, Chujie Wang, and Jacek J. Jasieniak.*
+[[10.1021/acs.langmuir.9b00855](https://pubs.acs.org/doi/pdf/10.1021/acs.langmuir.9b00855)]
+
 **Prediction of Synthesis of 2D Metal Carbides and Nitrides (MXenes) and Their Precursors with Positive and Unlabeled Machine Learning.**
 ACS Nano 13 (3), 3031-3041, March 2019.
 *Nathan C. Frey, Jin Wang, Gabriel Iván Vega Bellido, Babak Anasori, Yury Gogotsi, and Vivek B. Shenoy.*
 [[10.1021/acsnano.8b08014](https://pubs.acs.org/doi/full/10.1021/acsnano.8b08014)]
 
+**Metal Halide Perovskite Nanocrystals: Synthesis, Post-Synthesis Modifications, and Their Optical Properties.**
+Chemical Reviews, 119 (5), 3296-3348, Feb 2019.
+*Javad Shamsi, Alexander S. Urban, Muhammad Imran, Luca De Trizio, and Liberato Manna.*
+[[10.1021/acs.chemrev.8b00644](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.8b00644)]
+
 **Discovery of new materials using combinatorial synthesis and high-throughput characterization of thin-film materials libraries combined with computational methods.**
 npj Computational Materials volume 5, Article number: 70, 2019.
 *Alfred Ludwig.*
 [[doi.org/10.1038/s41524-019-0205-0](https://www.nature.com/articles/s41524-019-0205-0.pdf)]
+
+**Towards scalable synthesis of high-quality PbS colloidal quantum dots for photovoltaic applications.**
+Journal of Material Chemistry C, Issue 6, 2019.
+*Sijie Zhou, Zeke Liu, Yongjie Wang, Kunyuan Lu, Fan Yang, Mengfan Gu, Yalong Xu, Si Chen, Xufeng Ling, Yannan Zhang, Fangchao Li, Jianyu Yuan, and  Wanli Ma.*
+[[10.1039/C8TC05353G](https://pubs.rsc.org/en/content/articlelanding/2019/TC/C8TC05353G#!divAbstract)]
 
 **High-throughput assessment of hypothetical zeolite materials for their synthesizeability and industrial deployability.**
 De Gruyter, 2019
@@ -191,6 +226,11 @@ ACS Central Science, 5 (5) , 892-899, 2019.
 Nature Communications volume 9, Article number: 4980, Nov 2018.
 *Pranab Sarker, Tyler Harrington, Cormac Toher, Corey Oses, Mojtaba Samiee, Jon-Paul Maria, Donald W. Brenner, Kenneth S. Vecchio, and Stefano Curtarolo.*
 [[10.1038/s41467-018-07160-7](https://www.nature.com/articles/s41467-018-07160-7.pdf)]
+
+**Colloidal Synthesis of Double Perovskite Cs2AgInCl6 and Mn-Doped Cs2AgInCl6 Nanocrystals.**
+Journal of the American Chemical Society, 140 (40), 12989-12995, Sept 2018.
+*Federico Locardi, Matilde Cirignano, Dmitry Baranov, Zhiya Dang, Mirko Prato, Filippo Drago, Maurizio Ferretti, Valerio Pinchetti, Marco Fanciulli, Sergio Brovelli, Luca De Trizio, and Liberato Manna.*
+[[10.1021/jacs.8b07983](https://pubs.acs.org/doi/pdf/10.1021/jacs.8b07983)]
 
 **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.**
 Phys. Rev. Lett. 120, 145301, April 2018.
