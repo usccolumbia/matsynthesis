@@ -282,10 +282,20 @@ Inorganica Chimica Acta Volume 456, Pages 18-23, Feb 2017.
 *Ali Akbar Salari.*
 [[doi.org/10.1016/j.ica.2016.11.006](https://www.sciencedirect.com/science/article/abs/pii/S0020169316308660?via%3Dihub)]
 
+**Virtual screening of inorganic materials synthesis parameters with deep learning.**
+npj Computational Materials 3, 53, 2017.
+*Kim, E., Huang, K., Jegelka, S. et al.*
+[[10.1038/s41524-017-0055-6](https://www.nature.com/articles/s41524-017-0055-6.pdf)]
+
 **The thermodynamic scale of inorganic crystalline metastability.**
 Science Advances, Vol. 2, no. 11, e1600225, Nov 2016.
 *Wenhao Sun, Stephen T. Dacek, Shyue Ping Ong, Geoffroy Hautier, Anubhav Jain, William D. Richards, Anthony C. Gamst, Kristin A. Persson, and Gerbrand Ceder.*
 [[10.1126/sciadv.1600225](https://advances.sciencemag.org/lens/advances/2/11/e1600225)]
+
+**High-Throughput Machine-Learning-Driven Synthesis of Full-Heusler Compounds.**
+Chemistry of Materials, 28 (20), 7324-7331, 2016.
+*Anton O. Oliynyk, Erin Antono, Taylor D. Sparks, Leila Ghadbeigi, Michael W. Gaultois, Bryce Meredig, and Arthur Mar.*
+[[10.1021/acs.chemmater.6b02724](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.6b02724)]
 
 **Computationally-Guided Synthesis of the 8-Ring Zeolite AEI.**
 Topics in Catalysis volume 58, pages410–415, 2015.
