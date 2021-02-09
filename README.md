@@ -297,6 +297,11 @@ Chemistry of Materials, 28 (20), 7324-7331, 2016.
 *Anton O. Oliynyk, Erin Antono, Taylor D. Sparks, Leila Ghadbeigi, Michael W. Gaultois, Bryce Meredig, and Arthur Mar.*
 [[10.1021/acs.chemmater.6b02724](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.6b02724)]
 
+**Discovery of earth-abundant nitride semiconductors by computational screening and high-pressure synthesis.**
+Nature Communications 7, 11962,2016.
+*Hinuma, Y., Hatakeyama, T., Kumagai, Y. et al.*
+[[doi.org/10.1038/ncomms11962](https://www.nature.com/articles/ncomms11962.pdf)]
+
 **Computationally-Guided Synthesis of the 8-Ring Zeolite AEI.**
 Topics in Catalysis volume 58, pages410–415, 2015.
 *Joel E. Schmidt, Michael W. Deem, Christopher Lew, and Tracy M. Davis .*
