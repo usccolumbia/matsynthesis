@@ -43,6 +43,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 | **SynthGPT** — `jschrier/SynthGPT`                                       | LLM-based inorganic synthesis prediction and synthesizability         | Includes data/code for precursor and synthesizability prediction tasks. Useful for synthesis-text or precursor-oriented workflows.                                                         |
 | **StructLLM** — `snu-micc/StructLLM`                                     | Explainable synthesizability prediction                               | Includes general inorganic materials data, perovskite data, model results, and LLM-based workflows.                                                                                        |
 | **SyntheFormer** — `INQUIRELAB/SyntheFormer`                             | Structure-based synthesizability of inorganic crystals                | Transformer-style framework using Fourier-transformed crystal representations, PU learning, and uncertainty calibration. Check maturity carefully before relying on it.                    |
+| **CSLLM** — `https://github.com/szl666/CSLLM`                             | LLM-based synthesizability of inorganic crystals                |  LLM                    |
 
 For composition-only prediction, start with SynthNN or Synthesizability-stoi-CGNF.<br>
 For synthesis text / precursor prediction, look at SynthGPT.<br>
