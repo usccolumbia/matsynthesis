@@ -44,10 +44,10 @@ Within each category, papers are listed in reverse chronological order (newest f
 | **StructLLM** — `snu-micc/StructLLM`                                     | Explainable synthesizability prediction                               | Includes general inorganic materials data, perovskite data, model results, and LLM-based workflows.                                                                                        |
 | **SyntheFormer** — `INQUIRELAB/SyntheFormer`                             | Structure-based synthesizability of inorganic crystals                | Transformer-style framework using Fourier-transformed crystal representations, PU learning, and uncertainty calibration. Check maturity carefully before relying on it.                    |
 
-For composition-only prediction, start with SynthNN or Synthesizability-stoi-CGNF.\\
-For synthesis text / precursor prediction, look at SynthGPT.\\
-For crystal-structure-based prediction, look at SyntheFormer, but check maturity carefully before relying on it.\\
-The most mature-looking choices are SynthNN, Synthesizability-stoi-CGNF, and matsynthesis.\\
+For composition-only prediction, start with SynthNN or Synthesizability-stoi-CGNF.<br>
+For synthesis text / precursor prediction, look at SynthGPT.<br>
+For crystal-structure-based prediction, look at SyntheFormer, but check maturity carefully before relying on it.<br>
+The most mature-looking choices are SynthNN, Synthesizability-stoi-CGNF, and matsynthesis.<br>
 
 **Population-Based Black-Box Optimization for Biological Sequence Design.**  
 Christof Angermueller, David Belanger, Andreea Gane, Zelda Mariet, David Dohan, Kevin Murphy, Lucy Colwell, D Sculley.  
