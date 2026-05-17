@@ -34,6 +34,17 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 
 ### Tools and source code
+
+| Code / repo                                                              | What it predicts                                                      | Notes                                                                                                                                                                                      |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **SynthNN** — `antoniuk1/SynthNN`                                        | Synthesizability from inorganic crystalline **composition**           | Good starting point for a usable composition-based model. The repo says it can reproduce the paper, predict synthesizability for general inorganic compositions, and train a custom model. |
+| **matsynthesis** — `usccolumbia/matsynthesis`                            | Outcomes / synthesizability of material syntheses                     | Related to “Predicting the Outcomes of Material Syntheses with Deep Learning.” Includes ML-based materials synthesizability prediction work.                                               |
+| **Synthesizability-stoi-CGNF** — `kaist-amsg/Synthesizability-stoi-CGNF` | Synthesizability score for inorganic **stoichiometries/compositions** | Python + PyTorch + pymatgen. Uses positive-unlabeled learning and CGNF composition graph neural fingerprints.                                                                              |
+| **SynthGPT** — `jschrier/SynthGPT`                                       | LLM-based inorganic synthesis prediction and synthesizability         | Includes data/code for precursor and synthesizability prediction tasks. Useful for synthesis-text or precursor-oriented workflows.                                                         |
+| **StructLLM** — `snu-micc/StructLLM`                                     | Explainable synthesizability prediction                               | Includes general inorganic materials data, perovskite data, model results, and LLM-based workflows.                                                                                        |
+| **SyntheFormer** — `INQUIRELAB/SyntheFormer`                             | Structure-based synthesizability of inorganic crystals                | Transformer-style framework using Fourier-transformed crystal representations, PU learning, and uncertainty calibration. Check maturity carefully before relying on it.                    |
+
+
 **Population-Based Black-Box Optimization for Biological Sequence Design.**  
 Christof Angermueller, David Belanger, Andreea Gane, Zelda Mariet, David Dohan, Kevin Murphy, Lucy Colwell, D Sculley.  
 ICML, July 2020.  
